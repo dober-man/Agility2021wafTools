@@ -1,0 +1,6 @@
+-m 2 https://10.1.10.146/WebGoat/login
+-m 2 https://10.1.10.146/WebGoat/login
+-m 2 https://10.1.10.146/WebGoat/login
+-m 2 https://10.1.10.146/WebGoat/login
+-m 2 https://10.1.10.146/WebGoat/login
+-m 2 https://10.1.10.146/WebGoat/login
