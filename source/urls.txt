@@ -1,1 +1,7 @@
-/WebGoat/login
+/#/
+/styles.css
+/#/photo-wall
+/assets/public/images/products/apple_juice.jpg
+#/contact
+
+

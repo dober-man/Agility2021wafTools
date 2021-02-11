@@ -1,6 +1,2 @@
--m 2 https://10.1.10.146/WebGoat/login
--m 2 https://10.1.10.146/WebGoat/login
--m 2 https://10.1.10.146/WebGoat/login
--m 2 https://10.1.10.146/WebGoat/login
--m 2 https://10.1.10.146/WebGoat/login
--m 2 https://10.1.10.146/WebGoat/login
+-m 2 -k  -H "Content-Type: application/json" -X POST -d '{"email":"f5student@f5agility.com","password":"f5DEMOs4u!"}' https://10.1.10.146/rest/user/login
+
